@@ -1,4 +1,4 @@
-module github.com/260by/gssh
+module github.com/giwealth/gssh
 
 go 1.12
 
