@@ -5,7 +5,7 @@
 Supports executing commands through ssh, uploading and downloading files, and supporting the execution of private network address servers through the springboard.
 
 ### Installation
-    go get -u github.com/260by/gssh
+    go get -u github.com/giwealth/gssh
 
 ### Quick start
 
@@ -16,7 +16,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/260by/gssh"
+	"github.com/giwealth/gssh"
 )
 
 func main() {
@@ -44,7 +44,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/260by/gssh"
+	"github.com/giwealth/gssh"
 )
 
 func main() {
@@ -78,7 +78,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/260by/gssh"
+	"github.com/giwealth/gssh"
 )
 
 func main() {
