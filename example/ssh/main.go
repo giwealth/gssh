@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/260by/gssh"
+	"github.com/giwealth/gssh"
 )
 
 func main() {
